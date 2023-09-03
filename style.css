@@ -1,0 +1,20 @@
+.container {
+    border: 1px solid black;
+    display: grid;
+    margin: 10%;
+    margin-left: 35%;
+    height: 500px;
+    width: 500px;
+}
+
+.innerDiv {
+    border: 1px solid black;
+}
+
+.innerDiv:hover {
+    background-color: black;
+}
+
+.clicked {
+    background-color: black;
+}
